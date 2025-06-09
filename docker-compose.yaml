@@ -1,0 +1,39 @@
+version: '4'
+services:
+  rag_agent:
+    container_name: ragtest
+    image: ragtest:latest
+    command: sh -c "uvicorn main:app --reload --port=8000 --host=0.0.0.0"
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: "postgresql://postgres:1234@postgres/checking_connections"
+    depends_on:
+      - postgres
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+
+  postgres:
+    container_name: docbot_postgres
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234  
+      POSTGRES_DB: checking_connections
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+
+volumes:
+  postgres_data:

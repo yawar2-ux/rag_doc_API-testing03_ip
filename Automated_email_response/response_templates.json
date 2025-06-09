@@ -1,0 +1,210 @@
+{
+  "apology": {
+    "service_issue": {
+      "formal": {
+        "subject": "Our Sincere Apologies Regarding Your Recent Experience with Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPlease accept our sincere apologies for the service issue you experienced at Punjab Sindh Bank. We understand how frustrating this must have been for you.\n\nWe take full responsibility for this situation and are implementing measures to ensure it doesn't happen again. Rest assured that your banking experience remains our top priority.\n\nThank you for bringing this to our attention and giving us the opportunity to improve our services.\n\nSincerely,\nCustomer Service Department\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We're truly sorry about your experience with Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nI wanted to personally reach out and apologize for the frustration you've experienced with our banking services. Your concerns matter deeply to us, and we were disappointed to learn about the issues you encountered.\n\nWe're taking immediate steps to address this situation and remain committed to providing you with the exceptional banking experience you deserve.\n\nThank you for your continued trust in Punjab Sindh Bank.\n\nWith sincere apologies,\nCustomer Care Team\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "Apology for service issue at Punjab Sindh Bank",
+        "body": "Dear Customer,\n\nWe apologize for the banking service issue you reported. Punjab Sindh Bank has reviewed the situation and understands what went wrong.\n\nTo resolve this matter, we will take appropriate action to address your concerns promptly and ensure better service moving forward.\n\nThank you,\nSupport Team\nPunjab Sindh Bank"
+      }
+    },
+    "delayed_response": {
+      "formal": {
+        "subject": "Apologies for Our Delayed Response - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPlease accept our sincere apologies for the delay in responding to your banking inquiry. Punjab Sindh Bank strives to provide timely assistance to all our customers, and in this instance, we fell short of our standards.\n\nWe value your patience and understanding. If you have any additional questions about your account or our services, please don't hesitate to contact us.\n\nSincerely,\nCustomer Service Team\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We're sorry for keeping you waiting - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nI'm truly sorry we kept you waiting for a response regarding your Punjab Sindh Bank inquiry. We understand how important timely assistance is when it comes to your banking needs.\n\nYour patience means a lot to us, and we're committed to improving our response times. Please let us know if there's anything else we can help with today.\n\nWith appreciation,\nCustomer Care Team\nPunjab Sindh Bank"
+      }
+    },
+    "inappropriate_behavior": {
+      "formal": {
+        "subject": "Apology for Inappropriate Conduct - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPunjab Sindh Bank sincerely apologizes for the inappropriate conduct you experienced during your recent interaction with our team. This behavior does not reflect our professional banking standards or values.\n\nPlease be assured that we are taking immediate steps to address this matter internally. We value your relationship with Punjab Sindh Bank and are committed to regaining your trust.\n\nSincerely,\nCustomer Relations Department\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We're Sorry for Your Experience - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nWe're truly sorry for the inappropriate behavior you encountered at Punjab Sindh Bank. No customer deserves such treatment, and your experience matters deeply to us.\n\nWe're handling this matter with the utmost seriousness and are implementing additional staff training to ensure all customers receive respectful service.\n\nWarm regards,\nSupport Team\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "Apology for the Incident - Punjab Sindh Bank",
+        "body": "Dear Customer,\n\nPunjab Sindh Bank apologizes for the inappropriate conduct you experienced. Such behavior contradicts our service standards.\n\nWe're addressing this internally and implementing corrective measures. We value your business and are committed to providing respectful banking services.\n\nCustomer Support\nPunjab Sindh Bank"
+      }
+    },
+    "frustrated_behavior": {
+      "formal": {
+        "subject": "Apology for Your Experience at Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPunjab Sindh Bank regrets any distress caused by our staff's demeanor during your recent interaction. It is never our intention to make our customers feel uncomfortable when conducting their banking business.\n\nWe're reviewing this incident internally and will enhance our customer service training accordingly. Please accept our sincere apologies.\n\nSincerely,\nCustomer Service Department\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We Understand - That Wasn't the Banking Service You Deserve",
+        "body": "Dear Valued Customer,\n\nWe're really sorry that your experience at Punjab Sindh Bank left you feeling frustrated. Every customer deserves respectful and attentive service during their banking transactions.\n\nWe're addressing this immediately through additional staff training and quality monitoring. Thank you for helping us improve.\n\nKindly,\nCustomer Support Team\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "Sorry We Frustrated You - Punjab Sindh Bank",
+        "body": "Dear Customer,\n\nPunjab Sindh Bank apologizes for the frustrated behavior you experienced during your banking interaction. That's not the service standard we aim to provide.\n\nWe're implementing immediate improvements to our customer service approach. Thank you for your valuable feedback.\n\nThe Support Team\nPunjab Sindh Bank"
+      }
+    },
+    "rude_behavior": {
+      "formal": {
+        "subject": "Apology for Rude Behavior - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPunjab Sindh Bank extends our sincere apologies for the rude behavior you experienced during your interaction with our staff. This falls far below the professional banking service we strive to provide.\n\nWe are taking necessary steps to ensure this does not happen again through enhanced staff training and supervision.\n\nSincerely,\nCustomer Experience Team\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We're Sorry - You Deserved Better Banking Service",
+        "body": "Dear Valued Customer,\n\nWe're truly sorry for the rude and disrespectful experience you had at Punjab Sindh Bank. Every customer deserves courteous service when handling their financial matters.\n\nWe're addressing this issue internally through additional training and coaching. Thank you for bringing this to our attention.\n\nAll the best,\nCustomer Care\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "Unacceptable Behavior - Our Apology",
+        "body": "Dear Customer,\n\nThat behavior at Punjab Sindh Bank wasn't acceptable, and we sincerely apologize for your experience.\n\nWe're taking immediate corrective action and implementing service improvements. We value your business and are committed to regaining your trust.\n\nCustomer Support\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "complaint": {
+    "general": {
+      "formal": {
+        "subject": "Acknowledgement of Your Complaint - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for bringing your concern to Punjab Sindh Bank's attention. We take all banking complaints seriously and regret any inconvenience you may have experienced.\n\nWe have forwarded your matter to the relevant department and will ensure appropriate steps are taken to address your concerns promptly.\n\nSincerely,\nCustomer Relations Team\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We Hear You – We're On It - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for reaching out about the banking issue you experienced. We understand how frustrating financial matters can be when they don't go as expected.\n\nOur dedicated team at Punjab Sindh Bank is already investigating your concern, and we'll work diligently to make things right for you.\n\nWarm regards,\nSupport Team\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "We Got Your Complaint – Punjab Sindh Bank Is Working on It",
+        "body": "Dear Customer,\n\nThanks for bringing this banking issue to our attention. Punjab Sindh Bank acknowledges your complaint and understands your concerns.\n\nOur team is actively working on resolving this matter. We'll follow up with you shortly with a solution.\n\nThe Support Team\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "policy": {
+    "refund": {
+      "standard": {
+        "subject": "RE: Punjab Sindh Bank Refund Policy Information",
+        "body": "Dear Valued Customer,\n\nThank you for your inquiry about Punjab Sindh Bank's refund policy. Our standard policy allows for refunds of eligible banking fees within 30 days of transaction with proper documentation.\n\nPlease let us know if you have any other questions about our banking policies.\n\nBest regards,\nCustomer Service Team\nPunjab Sindh Bank"
+      },
+      "exception": {
+        "subject": "RE: Your Refund Request - Special Consideration",
+        "body": "Dear Valued Customer,\n\nThank you for reaching out regarding your refund request at Punjab Sindh Bank. While our standard policy allows for refunds within 30 days of transaction, we understand that special circumstances can arise.\n\nAfter reviewing your situation, we have made an exception and processed your refund request. Please allow 3-5 business days for this to reflect in your account.\n\nWe value your relationship with Punjab Sindh Bank.\n\nBest regards,\nCustomer Service Team\nPunjab Sindh Bank"
+      }
+    },
+    "privacy": {
+      "standard": {
+        "subject": "RE: Punjab Sindh Bank Privacy Policy Information",
+        "body": "Dear Valued Customer,\n\nRegarding your inquiry about Punjab Sindh Bank's privacy policy, we take data protection and financial information security very seriously.\n\nYou can find our complete privacy policy on our official website. If you have specific questions about how we protect your banking information, please let us know.\n\nBest regards,\nPrivacy Team\nPunjab Sindh Bank"
+      },
+      "data_request": {
+        "subject": "RE: Your Data Request - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for your request regarding your personal data at Punjab Sindh Bank. We are committed to transparency and giving you control over your banking information.\n\nTo proceed with your data request, please visit your nearest branch with valid identification or verify your identity through our secure online banking portal.\n\nOnce verified, we will process your request within 14 business days per banking regulations.\n\nBest regards,\nData Protection Team\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "support": {
+    "technical_issue": {
+      "troubleshooting": {
+        "subject": "RE: Technical Support for Your Punjab Sindh Bank Online Services",
+        "body": "Dear Valued Customer,\n\nThank you for reporting the technical issue with your Punjab Sindh Bank online banking services. We understand how important reliable access to your financial information is.\n\nPlease try the following troubleshooting steps:\n\n1. Clear your browser cache and cookies\n2. Ensure you're using the latest version of our mobile app\n3. Restart your device and attempt to log in again\n\nIf these steps don't resolve the issue, please reply with the results, and our technical team will provide further assistance.\n\nBest regards,\nTechnical Support Team\nPunjab Sindh Bank"
+      },
+      "resolved": {
+        "subject": "RE: Resolution for Your Punjab Sindh Bank Technical Issue",
+        "body": "Dear Valued Customer,\n\nGreat news! We've identified and resolved the technical issue you reported with your Punjab Sindh Bank online services.\n\nPlease try accessing your account again and verify that everything is functioning properly. The system has been updated to prevent similar issues in the future.\n\nWe appreciate your patience while we worked to resolve this matter.\n\nBest regards,\nTechnical Support Team\nPunjab Sindh Bank"  
+      }
+    },
+    "general": {
+      "standard": {
+        "subject": "RE: Your Punjab Sindh Bank Support Request",
+        "body": "Dear Valued Customer,\n\nThank you for contacting Punjab Sindh Bank's support team. We appreciate your patience as we work to address your banking needs.\n\nIf you have any additional questions about our banking services, please don't hesitate to contact us.\n\nBest regards,\nSupport Team\nPunjab Sindh Bank"
+      },
+      "escalated": {
+        "subject": "RE: Your Punjab Sindh Bank Support Request - Case Escalated",
+        "body": "Dear Valued Customer,\n\nThank you for your patience regarding your support request with Punjab Sindh Bank. Due to the nature of your banking issue, we have escalated your case to our specialized financial services team.\n\nYour case number is PSB-123456. A senior banking specialist will contact you within the next 24 hours to resolve this matter. Please reference this case number in future communications about this issue.\n\nWe appreciate your understanding and value your business.\n\nBest regards,\nSupport Team\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "billing": {
+    "invoice": {
+      "clarification": {
+        "subject": "RE: Your Punjab Sindh Bank Billing Inquiry",
+        "body": "Dear Valued Customer,\n\nThank you for your inquiry regarding your Punjab Sindh Bank statement. We understand the importance of billing clarity in your financial matters.\n\nIf you require any further assistance with your banking statements, please don't hesitate to contact us.\n\nBest regards,\nBilling Department\nPunjab Sindh Bank"
+      },
+      "correction": {
+        "subject": "RE: Correction to Your Punjab Sindh Bank Statement",
+        "body": "Dear Valued Customer,\n\nThank you for bringing the statement discrepancy to our attention. After reviewing your Punjab Sindh Bank account, we have identified and corrected the error.\n\nWe have issued a corrected statement, which you will receive shortly. We apologize for any inconvenience this may have caused to your financial planning.\n\nIf you have any questions about the updated statement, please feel free to contact us.\n\nBest regards,\nBilling Department\nPunjab Sindh Bank"
+      }
+    },
+    "payment": {
+      "confirmation": {
+        "subject": "RE: Punjab Sindh Bank Payment Confirmation",
+        "body": "Dear Valued Customer,\n\nThank you for your payment received by Punjab Sindh Bank. Your payment has been successfully processed and applied to your account.\n\nYou can view your payment history and account details by logging into your Punjab Sindh Bank online banking portal or mobile app.\n\nWe appreciate your business and trust in our banking services.\n\nBest regards,\nBilling Department\nPunjab Sindh Bank"
+      },
+      "extension": {
+        "subject": "RE: Your Punjab Sindh Bank Payment Extension Request",
+        "body": "Dear Valued Customer,\n\nThank you for contacting Punjab Sindh Bank regarding your payment situation. We understand that financial circumstances can sometimes present challenges.\n\nBased on your account history and current situation, we're pleased to inform you that we've approved an extension for your loan payment.\n\nIf you need any further assistance with your banking needs, please don't hesitate to contact us.\n\nBest regards,\nBilling Support Team\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "sales": {
+    "product": {
+      "information": {
+        "subject": "RE: Information About Punjab Sindh Bank Products",
+        "body": "Dear Valued Customer,\n\nThank you for your interest in Punjab Sindh Bank's financial products. We're excited to help you find the right banking solution for your needs.\n\nOur range of services includes personal savings accounts, business accounts, fixed deposit schemes, home loans, and digital banking services with competitive rates and terms.\n\nIf you have any other questions or would like to schedule an appointment with a financial advisor, please let us know.\n\nBest regards,\nSales Team\nPunjab Sindh Bank"
+      },
+      "quote": {
+        "subject": "RE: Your Custom Quote Request - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for requesting information about our loan products at Punjab Sindh Bank. We're pleased to provide you with our competitive interest rates and terms.\n\nThis quote is valid for 30 days from today. If you'd like to proceed with an application or have any questions, please don't hesitate to contact me directly.\n\nI look forward to helping you achieve your financial goals with Punjab Sindh Bank.\n\nBest regards,\nFinancial Advisor\nPunjab Sindh Bank"
+      }
+    },
+    "inquiry": {
+      "follow_up": {
+        "subject": "RE: Following Up on Your Punjab Sindh Bank Inquiry",
+        "body": "Dear Valued Customer,\n\nThank you for your recent inquiry about Punjab Sindh Bank's products and services. I hope the information provided was helpful for your banking needs.\n\nI'm available to answer any additional questions you might have or to schedule a personalized consultation at your nearest branch. What would be a convenient time for a brief call this week?\n\nLooking forward to assisting you further with your financial requirements.\n\nBest regards,\nRelationship Manager\nPunjab Sindh Bank"
+      }
+    }
+  },
+  "feedback": {
+    "positive": {
+      "appreciation": {
+        "subject": "RE: Thank You for Your Positive Feedback - Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for taking the time to share your positive experience with Punjab Sindh Bank. We're delighted to hear that you are satisfied with our banking services.\n\nFeedback like yours motivates our team and helps us understand what our customers value most. We look forward to continuing to provide you with excellent banking services.\n\nThank you for choosing Punjab Sindh Bank as your financial partner.\n\nBest regards,\nCustomer Experience Team\nPunjab Sindh Bank"
+      }
+    },
+    "negative": {
+      "improvement": {
+        "subject": "RE: Addressing Your Concerns with Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nThank you for sharing your feedback with Punjab Sindh Bank. We sincerely apologize that your banking experience did not meet your expectations.\n\nWe appreciate your honest feedback as it helps us improve our services. We've shared your comments with our team and are taking steps to address the issues you've highlighted.\n\nWe value you as our customer and would welcome the opportunity to make things right. Please let us know how we can best resolve this matter for you.\n\nSincerely,\nCustomer Experience Team\nPunjab Sindh Bank"
+      }
+    },
+    "thank_you": {
+      "formal": {
+        "subject": "Thank You for Your Feedback and Trust in Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nPunjab Sindh Bank sincerely appreciates your feedback and the time you took to share your thoughts. Your continued trust in our banking services means a great deal to us.\n\nIf there is ever anything more we can assist you with regarding your financial needs, please do not hesitate to reach out.\n\nWarm regards,\nCustomer Care\nPunjab Sindh Bank"
+      },
+      "empathetic": {
+        "subject": "We Truly Appreciate Your Business with Punjab Sindh Bank!",
+        "body": "Dear Valued Customer,\n\nThank you so much for your kind words and ongoing support of Punjab Sindh Bank. Your satisfaction with our services truly matters to us.\n\nOur team is always available to assist with your banking needs – please don't hesitate to visit any of our branches or contact us through our customer service channels.\n\nWith appreciation,\nYour Support Team\nPunjab Sindh Bank"
+      },
+      "direct": {
+        "subject": "Thanks for Banking with Punjab Sindh Bank!",
+        "body": "Dear Customer,\n\nThank you for your valuable feedback on our banking services. Your insights help Punjab Sindh Bank continue to improve.\n\nWe're here whenever you need assistance with your financial matters.\n\nBest regards,\nPunjab Sindh Bank Team"
+      }
+    }
+  },
+  "greeting": {
+    "general": {
+      "formal": {
+        "subject": "Greetings from Punjab Sindh Bank",
+        "body": "Dear Valued Customer,\n\nWe hope this message finds you well. Punjab Sindh Bank wanted to take a moment to reach out and thank you for your continued trust in our financial services.\n\nIf there is anything we can assist you with regarding your accounts or banking needs, please do not hesitate to let us know.\n\nBest regards,\nCustomer Service Team\nPunjab Sindh Bank"
+      },
+      "friendly": {
+        "subject": "Hello from Punjab Sindh Bank!",
+        "body": "Hi Valued Customer,\n\nJust wanted to drop a quick note to say hello from everyone at Punjab Sindh Bank!\n\nWe appreciate your business and are here to help with all your banking needs. Feel free to visit any of our branches or use our digital banking services for convenient access to your accounts.\n\nHope you're having a great day!\n\nCheers,\nYour Support Team\nPunjab Sindh Bank"
+      }
+    }
+  }
+}
